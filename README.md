@@ -10,7 +10,7 @@ Este projeto configura um pipeline de **Streaming** utilizando **Apache Kafka, A
 
 ### 2. Clonar o repositório
 ```sh
-git clone https://github.com/seu-usuario/streaming-kafka-spark-minio.git
+git clone https://github.com/mafreitas85/streaming-kafka-spark-minio.git
 cd streaming-kafka-spark-minio
 
 ### 3. Subir os contêineres Docker
